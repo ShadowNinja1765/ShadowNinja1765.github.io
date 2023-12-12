@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Islam</title>
+</head>
+
+<body style=background-color:lightgreen;>
+  <div id="title">
+    <h1>
+      <center>Islam:</center>
+    </h1>
+  </div>
+</body>
+<div id="Intro to Islam">
+  <h2>What is Islam?</h2>
+  <p>Islam is the religion of 2 billion people alive on Earth known as muslims. They believe there is only 1 god and
+    Prophet Muhammad ﷺ is the final messenger and prophet of Allah.</p>
+</div>
+<div id="prophets in islam" ;>
+  <h2>What were the prophets metioned in the Qur'an?</h2>
+  <h4>The main prophets were:</h4>
+  <ul>
+    <li>Prophet Muhammad ﷺ</li>
+    <li>Prophet Ibrahim (Abraham)</li>
+    <li>Prophet Isa (Jesus)</li>
+    <li>Prophet Musa (Moses)</li>
+    <li>Prophet Yusuf (Joseph)</li>
+    <li>Prophet Adam</li>
+    <li>Prophet Nuh (Noah)</li>
+    <li>Prophet Lut</li>
+    <li>Prophet Saleh</li>
+    <li>Prophet Suleiman (Solomon)</li>
+    <li>Prophet Zakkariya</li>
+  </ul>
+  <p>These are some of the the prophets in Islam that were mentioned in the Qur'an. Overall, there are approximately
+    27,000 prophets.</p>
+</div>
+<div id="sins";>
+  <h2>what are sins in Islam?</h2>
+  <p>In Islam, sins are bad but can be forgiven if the person who did it repents sincerely. Indeed Allah SWT is the most merciful and gracious.</p>
+  <p>
+    We are tempted to sin because of shayteens (followers of Iblees, leader of the devils). In Islam, Muslims believe that there is a shayateen within us called the Qareen. Our Qareen whisper to us to sin and not repent after. However, a person with a strong faith can withstand these evil whispers and thoughts from the Qareen insidde us.
+  </p>
+<p>
+  There are a few major sins and they are:
+  <ul>
+    <li>Shirk</li>
+    <li>Zina (Adultry)</li>
+    <li>Not praying daily</li>
+    <li>Sorcery (magic)</li>
+    <li>Disrespectig Parents</li>
+  </ul>
+<p>
+  Accordig to Muslim scholars, there are 70 Major sins and these are amongst the worst sins a muslim can do. However, even the major sins can be forgiven by Allah if the person repents sincerely. Shirk, not praying salah and sorcery can make you leave Islam if you don't repent.
+</p>
+</div>
+<div id="Prayers">
+  <h2>What are prayers in Islam?</h2>
+  <p>Prayers are important in Islam and it's the only thing that seperates disbeliever from a believer.</p>
+  <p>These are the prayers in Islam ad their times:</p>
+  <ol>
+    <li>Fajr - before surise</li>
+    <li>Duhr - mid day</li>
+    <li>Asr - afteroon</li>
+    <li>Maghrib - evening to suset</li>
+    <li>Isha - Night to mid night</li>
+  </ol>
+</div>
+<div id="sections";>
+  <h2>Are there any sections in Islam?</h2>
+  <p>There are 72 sections in islam but ony a few are higly recogised. Sunni Is the most popular section in Islam. There are also shias along with Ahmadi section. However, Ahmadis believe that there was another prophet after Prophet Muhammad ﷺ, thus having a different shahadah. </p>
+<p> Prophet Muhammad ﷺ said that only 1 of the sections will go to Jannah. The division of muslims were highly supported be western countries as it divided the Ummah more. This all started after Prophet Muhammad ﷺ death. </p>
+</div>
+<div id="sheikhs";>
+  <h2>Who are muftis and sheikhs?</h2>
+  <p>Muftis and sheikhs are different, muftis are those who interpret Islamic laws and they issue fatwa. sheikhs however, are those who are religious.</p>
+<p>  These are a few muftis in Islam:
+  <ul>
+    <li>Mufti Menk</li>
+    <li>Mufti Tariq Masood</li>
+  </ul></p>
+<p>  There are a few sheikhs in Islam:
+  <ul>
+    <li>Sheikh Uthman Farooq</li>
+    <li>Sheikh Ishaaq Bin Ahmad</li>
+  </ul></p>
+</div>
+<div id="islamic pic">
+    <div id="Qur'an" ;>
+      <h2>What is the Qur'an?</h2>
+      <p>The Qur'an is the holy book of Islam and it consists of 30 Juz which then further contains 114 chapters or
+        surahs. The Qur'an is wriien in arabic but not like the modern day arabic. The Qur'an has never been changed so
+        the arabic in the Qur'an is not the arabic we havre right now. It is the arabic used 1400 years ago when Islam
+        got revealed in Makkah (Mecca).</p>
+      <div id="islamic pic">
+        <center><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Qur%27an_and_Rehal.jpg" width="400"
+            length "300" control></center>
+      </div>
+      <div id="Islamic video" ;>
+        <center>
+          <h4>copy & paste the links below for a greater understanding of Islam.
+            <br>
+            <br>
+            <a href="https://en.wikipedia.org/wiki/Islam" target = "_blank">Wkipedia</a>
+          </h4>
+      </div>
+      </body>
+
+</html>
